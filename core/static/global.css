@@ -1,0 +1,21 @@
+/* DaisyUI theme is applied via data-theme on <html> when using the CDN setup */
+
+.grand-hotel-regular {
+  font-family: "Grand Hotel", cursive;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 1px;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hide-scrollbar {
+  scrollbar-width: none;
+}
+
+.errorlist > li {
+  font-size: x-small;
+  color: rgb(215, 50, 50);
+}
